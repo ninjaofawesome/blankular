@@ -1,0 +1,14 @@
+//parts that are ubiquitous to the site
+
+@import "components/variables";
+@import "components/mixins";
+@import "components/fonts";
+@import "components/type";
+@import "components/body";
+@import "components/images";
+@import "components/buttons";
+
+//individual page parts
+
+@import "partials/index";
+

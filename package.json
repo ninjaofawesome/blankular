@@ -1,0 +1,41 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.0",
+  "keywords": [
+    "angular",
+    "javascript"
+  ],
+  "scripts": {
+      "start": "node index.js"
+  },
+  "maintainers": [
+    {
+      "name": "Hannah Nordgren",
+      "email": "hey@hereshannahs.info",
+      "web": "http://hereshannahs.info/#/"
+    }
+  ],
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "bower": "^1.3.1",
+    "fs": "0.0.2",
+    "http-server": "^0.6.1",
+    "node-gyp": "^1.0.2",
+    "shelljs": "^0.2.6"
+  },
+  "bugs": {
+    "mail": "hey@hereshannahs.info"
+  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/ninjaofawesome/[NAME HERE].git"
+    }
+  ],
+  "homepage": "https://[SITE HERE]/",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
