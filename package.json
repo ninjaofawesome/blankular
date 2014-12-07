@@ -1,19 +1,20 @@
 {
-  "name": "",
-  "description": "",
+  "name": "[YOUR-NAME-HERE]",
+  "description": "[YOUR DESCRIPTION HERE]",
   "version": "0.0.0",
   "keywords": [
     "angular",
-    "javascript"
+    "javascript",
+    "[YOUR COMMA SEPARATED, DOUBLE QUOTED KEYWORDS HERE]"
   ],
   "scripts": {
       "start": "node index.js"
   },
   "maintainers": [
     {
-      "name": "Hannah Nordgren",
-      "email": "hey@hereshannahs.info",
-      "web": "http://hereshannahs.info/#/"
+      "name": "[YOUR NAME HERE]",
+      "email": "hey@hereshannahs.info [SWITCH OUT MY EMAIL, YO.]",
+      "web": "[YOUR WEBSITE HERE.]"
     }
   ],
   "dependencies": {
@@ -26,7 +27,7 @@
     "shelljs": "^0.2.6"
   },
   "bugs": {
-    "mail": "hey@hereshannahs.info"
+    "mail": "[YOUR EMAIL HERE]"
   },
   "repository": [
     {
